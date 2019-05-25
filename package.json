@@ -1,0 +1,24 @@
+{
+  "name": "apollo20-graphql-schma-mongo",
+  "version": "1.0.0",
+  "description": "Server with Apollo 2.0 Graphql Schema & MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelhueb92/apollo20-graphql-schma-mongo.git"
+  },
+  "author": "Rafael Hueb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelhueb92/apollo20-graphql-schma-mongo/issues"
+  },
+  "homepage": "https://github.com/rafaelhueb92/apollo20-graphql-schma-mongo#readme",
+  "dependencies": {
+    "apollo-server": "^2.5.0",
+    "graphql": "^14.3.1",
+    "mongoose": "^5.5.11"
+  }
+}
